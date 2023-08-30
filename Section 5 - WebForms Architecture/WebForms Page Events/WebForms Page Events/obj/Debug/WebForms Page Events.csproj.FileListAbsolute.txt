@@ -1,0 +1,73 @@
+F:\Phase 3\Assisted Project\Section 5 - WebForms Architecture\WebForms Page Events\WebForms Page Events\bin\WebForms Page Events.dll.config
+F:\Phase 3\Assisted Project\Section 5 - WebForms Architecture\WebForms Page Events\WebForms Page Events\bin\WebForms Page Events.dll
+F:\Phase 3\Assisted Project\Section 5 - WebForms Architecture\WebForms Page Events\WebForms Page Events\bin\WebForms Page Events.pdb
+F:\Phase 3\Assisted Project\Section 5 - WebForms Architecture\WebForms Page Events\WebForms Page Events\bin\roslyn\csc.exe
+F:\Phase 3\Assisted Project\Section 5 - WebForms Architecture\WebForms Page Events\WebForms Page Events\bin\roslyn\csc.exe.config
+F:\Phase 3\Assisted Project\Section 5 - WebForms Architecture\WebForms Page Events\WebForms Page Events\bin\roslyn\csc.rsp
+F:\Phase 3\Assisted Project\Section 5 - WebForms Architecture\WebForms Page Events\WebForms Page Events\bin\roslyn\csi.exe
+F:\Phase 3\Assisted Project\Section 5 - WebForms Architecture\WebForms Page Events\WebForms Page Events\bin\roslyn\csi.exe.config
+F:\Phase 3\Assisted Project\Section 5 - WebForms Architecture\WebForms Page Events\WebForms Page Events\bin\roslyn\csi.rsp
+F:\Phase 3\Assisted Project\Section 5 - WebForms Architecture\WebForms Page Events\WebForms Page Events\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Phase 3\Assisted Project\Section 5 - WebForms Architecture\WebForms Page Events\WebForms Page Events\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Phase 3\Assisted Project\Section 5 - WebForms Architecture\WebForms Page Events\WebForms Page Events\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Phase 3\Assisted Project\Section 5 - WebForms Architecture\WebForms Page Events\WebForms Page Events\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Phase 3\Assisted Project\Section 5 - WebForms Architecture\WebForms Page Events\WebForms Page Events\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Phase 3\Assisted Project\Section 5 - WebForms Architecture\WebForms Page Events\WebForms Page Events\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Phase 3\Assisted Project\Section 5 - WebForms Architecture\WebForms Page Events\WebForms Page Events\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Phase 3\Assisted Project\Section 5 - WebForms Architecture\WebForms Page Events\WebForms Page Events\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Phase 3\Assisted Project\Section 5 - WebForms Architecture\WebForms Page Events\WebForms Page Events\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Phase 3\Assisted Project\Section 5 - WebForms Architecture\WebForms Page Events\WebForms Page Events\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Phase 3\Assisted Project\Section 5 - WebForms Architecture\WebForms Page Events\WebForms Page Events\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Phase 3\Assisted Project\Section 5 - WebForms Architecture\WebForms Page Events\WebForms Page Events\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\Phase 3\Assisted Project\Section 5 - WebForms Architecture\WebForms Page Events\WebForms Page Events\bin\roslyn\System.AppContext.dll
+F:\Phase 3\Assisted Project\Section 5 - WebForms Architecture\WebForms Page Events\WebForms Page Events\bin\roslyn\System.Collections.Immutable.dll
+F:\Phase 3\Assisted Project\Section 5 - WebForms Architecture\WebForms Page Events\WebForms Page Events\bin\roslyn\System.Console.dll
+F:\Phase 3\Assisted Project\Section 5 - WebForms Architecture\WebForms Page Events\WebForms Page Events\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\Phase 3\Assisted Project\Section 5 - WebForms Architecture\WebForms Page Events\WebForms Page Events\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Phase 3\Assisted Project\Section 5 - WebForms Architecture\WebForms Page Events\WebForms Page Events\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Phase 3\Assisted Project\Section 5 - WebForms Architecture\WebForms Page Events\WebForms Page Events\bin\roslyn\System.Globalization.Calendars.dll
+F:\Phase 3\Assisted Project\Section 5 - WebForms Architecture\WebForms Page Events\WebForms Page Events\bin\roslyn\System.IO.Compression.dll
+F:\Phase 3\Assisted Project\Section 5 - WebForms Architecture\WebForms Page Events\WebForms Page Events\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\Phase 3\Assisted Project\Section 5 - WebForms Architecture\WebForms Page Events\WebForms Page Events\bin\roslyn\System.IO.FileSystem.dll
+F:\Phase 3\Assisted Project\Section 5 - WebForms Architecture\WebForms Page Events\WebForms Page Events\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Phase 3\Assisted Project\Section 5 - WebForms Architecture\WebForms Page Events\WebForms Page Events\bin\roslyn\System.Net.Http.dll
+F:\Phase 3\Assisted Project\Section 5 - WebForms Architecture\WebForms Page Events\WebForms Page Events\bin\roslyn\System.Net.Sockets.dll
+F:\Phase 3\Assisted Project\Section 5 - WebForms Architecture\WebForms Page Events\WebForms Page Events\bin\roslyn\System.Reflection.Metadata.dll
+F:\Phase 3\Assisted Project\Section 5 - WebForms Architecture\WebForms Page Events\WebForms Page Events\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Phase 3\Assisted Project\Section 5 - WebForms Architecture\WebForms Page Events\WebForms Page Events\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Phase 3\Assisted Project\Section 5 - WebForms Architecture\WebForms Page Events\WebForms Page Events\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Phase 3\Assisted Project\Section 5 - WebForms Architecture\WebForms Page Events\WebForms Page Events\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Phase 3\Assisted Project\Section 5 - WebForms Architecture\WebForms Page Events\WebForms Page Events\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Phase 3\Assisted Project\Section 5 - WebForms Architecture\WebForms Page Events\WebForms Page Events\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Phase 3\Assisted Project\Section 5 - WebForms Architecture\WebForms Page Events\WebForms Page Events\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\Phase 3\Assisted Project\Section 5 - WebForms Architecture\WebForms Page Events\WebForms Page Events\bin\roslyn\System.ValueTuple.dll
+F:\Phase 3\Assisted Project\Section 5 - WebForms Architecture\WebForms Page Events\WebForms Page Events\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Phase 3\Assisted Project\Section 5 - WebForms Architecture\WebForms Page Events\WebForms Page Events\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Phase 3\Assisted Project\Section 5 - WebForms Architecture\WebForms Page Events\WebForms Page Events\bin\roslyn\System.Xml.XPath.dll
+F:\Phase 3\Assisted Project\Section 5 - WebForms Architecture\WebForms Page Events\WebForms Page Events\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Phase 3\Assisted Project\Section 5 - WebForms Architecture\WebForms Page Events\WebForms Page Events\bin\roslyn\vbc.exe
+F:\Phase 3\Assisted Project\Section 5 - WebForms Architecture\WebForms Page Events\WebForms Page Events\bin\roslyn\vbc.exe.config
+F:\Phase 3\Assisted Project\Section 5 - WebForms Architecture\WebForms Page Events\WebForms Page Events\bin\roslyn\vbc.rsp
+F:\Phase 3\Assisted Project\Section 5 - WebForms Architecture\WebForms Page Events\WebForms Page Events\bin\roslyn\VBCSCompiler.exe
+F:\Phase 3\Assisted Project\Section 5 - WebForms Architecture\WebForms Page Events\WebForms Page Events\bin\roslyn\VBCSCompiler.exe.config
+F:\Phase 3\Assisted Project\Section 5 - WebForms Architecture\WebForms Page Events\WebForms Page Events\bin\Antlr3.Runtime.dll
+F:\Phase 3\Assisted Project\Section 5 - WebForms Architecture\WebForms Page Events\WebForms Page Events\bin\AspNet.ScriptManager.jQuery.dll
+F:\Phase 3\Assisted Project\Section 5 - WebForms Architecture\WebForms Page Events\WebForms Page Events\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\Phase 3\Assisted Project\Section 5 - WebForms Architecture\WebForms Page Events\WebForms Page Events\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\Phase 3\Assisted Project\Section 5 - WebForms Architecture\WebForms Page Events\WebForms Page Events\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Phase 3\Assisted Project\Section 5 - WebForms Architecture\WebForms Page Events\WebForms Page Events\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\Phase 3\Assisted Project\Section 5 - WebForms Architecture\WebForms Page Events\WebForms Page Events\bin\Microsoft.ScriptManager.WebForms.dll
+F:\Phase 3\Assisted Project\Section 5 - WebForms Architecture\WebForms Page Events\WebForms Page Events\bin\Microsoft.Web.Infrastructure.dll
+F:\Phase 3\Assisted Project\Section 5 - WebForms Architecture\WebForms Page Events\WebForms Page Events\bin\Newtonsoft.Json.dll
+F:\Phase 3\Assisted Project\Section 5 - WebForms Architecture\WebForms Page Events\WebForms Page Events\bin\System.Web.Optimization.dll
+F:\Phase 3\Assisted Project\Section 5 - WebForms Architecture\WebForms Page Events\WebForms Page Events\bin\WebGrease.dll
+F:\Phase 3\Assisted Project\Section 5 - WebForms Architecture\WebForms Page Events\WebForms Page Events\bin\System.Web.Optimization.xml
+F:\Phase 3\Assisted Project\Section 5 - WebForms Architecture\WebForms Page Events\WebForms Page Events\bin\Newtonsoft.Json.xml
+F:\Phase 3\Assisted Project\Section 5 - WebForms Architecture\WebForms Page Events\WebForms Page Events\bin\Antlr3.Runtime.pdb
+F:\Phase 3\Assisted Project\Section 5 - WebForms Architecture\WebForms Page Events\WebForms Page Events\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\Phase 3\Assisted Project\Section 5 - WebForms Architecture\WebForms Page Events\WebForms Page Events\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Phase 3\Assisted Project\Section 5 - WebForms Architecture\WebForms Page Events\WebForms Page Events\obj\Debug\WebForms Page Events.csproj.AssemblyReference.cache
+F:\Phase 3\Assisted Project\Section 5 - WebForms Architecture\WebForms Page Events\WebForms Page Events\obj\Debug\WebForms Page Events.csproj.CoreCompileInputs.cache
+F:\Phase 3\Assisted Project\Section 5 - WebForms Architecture\WebForms Page Events\WebForms Page Events\obj\Debug\WebForms Page Events.csproj.CopyComplete
+F:\Phase 3\Assisted Project\Section 5 - WebForms Architecture\WebForms Page Events\WebForms Page Events\obj\Debug\WebForms Page Events.dll
+F:\Phase 3\Assisted Project\Section 5 - WebForms Architecture\WebForms Page Events\WebForms Page Events\obj\Debug\WebForms Page Events.pdb
