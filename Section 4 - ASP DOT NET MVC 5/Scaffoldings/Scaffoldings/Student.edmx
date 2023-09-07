@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="School1DbModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <!--Errors Found During Generation:
+warning 6002: The table/view 'School1Db.dbo.Student' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+        <EntityType Name="Student">
+          <Key>
+            <PropertyRef Name="Kaviya" />
+            <PropertyRef Name="White Town,Pondicherry" />
+            <PropertyRef Name="viyawuba136@gmail.com" />
+            <PropertyRef Name="10th" />
+          </Key>
+          <Property Name="Kaviya" Type="varchar" MaxLength="100" Nullable="false" />
+          <Property Name="White Town,Pondicherry" Type="varchar" MaxLength="100" Nullable="false" />
+          <Property Name="viyawuba136@gmail.com" Type="varchar" MaxLength="75" Nullable="false" />
+          <Property Name="10th" Type="varchar" MaxLength="75" Nullable="false" />
+        </EntityType>
+        <EntityContainer Name="School1DbModelStoreContainer">
+          <EntitySet Name="Student" EntityType="Self.Student" store:Type="Tables" store:Schema="dbo">
+            <DefiningQuery>SELECT 
+    [Student].[Kaviya] AS [Kaviya], 
+    [Student].[White Town,Pondicherry] AS [White Town,Pondicherry], 
+    [Student].[viyawuba136@gmail.com] AS [viyawuba136@gmail.com], 
+    [Student].[10th] AS [10th]
+    FROM [dbo].[Student] AS [Student]</DefiningQuery>
+          </EntitySet>
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="School1DbModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="Student">
+          <Key>
+            <PropertyRef Name="Kaviya" />
+            <PropertyRef Name="White_Town_Pondicherry" />
+            <PropertyRef Name="viyawuba136_gmail_com" />
+            <PropertyRef Name="C10th" />
+          </Key>
+          <Property Name="Kaviya" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="White_Town_Pondicherry" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="viyawuba136_gmail_com" Type="String" MaxLength="75" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="C10th" Type="String" MaxLength="75" FixedLength="false" Unicode="false" Nullable="false" />
+        </EntityType>
+        <EntityContainer Name="School1DbEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="Students" EntityType="Self.Student" />
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="School1DbModelStoreContainer" CdmEntityContainer="School1DbEntities">
+          <EntitySetMapping Name="Students">
+            <EntityTypeMapping TypeName="School1DbModel.Student">
+              <MappingFragment StoreEntitySet="Student">
+                <ScalarProperty Name="Kaviya" ColumnName="Kaviya" />
+                <ScalarProperty Name="White_Town_Pondicherry" ColumnName="White Town,Pondicherry" />
+                <ScalarProperty Name="viyawuba136_gmail_com" ColumnName="viyawuba136@gmail.com" />
+                <ScalarProperty Name="C10th" ColumnName="10th" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

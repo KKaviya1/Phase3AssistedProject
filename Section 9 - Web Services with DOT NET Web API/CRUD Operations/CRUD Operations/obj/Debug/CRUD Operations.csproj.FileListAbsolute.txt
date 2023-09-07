@@ -1,0 +1,89 @@
+F:\Phase 3\Assisted Project\Section 9 - Web Services with DOT NET Web API\CRUD Operations\CRUD Operations\bin\CRUD Operations.dll.config
+F:\Phase 3\Assisted Project\Section 9 - Web Services with DOT NET Web API\CRUD Operations\CRUD Operations\bin\CRUD Operations.dll
+F:\Phase 3\Assisted Project\Section 9 - Web Services with DOT NET Web API\CRUD Operations\CRUD Operations\bin\CRUD Operations.pdb
+F:\Phase 3\Assisted Project\Section 9 - Web Services with DOT NET Web API\CRUD Operations\CRUD Operations\bin\roslyn\csc.exe
+F:\Phase 3\Assisted Project\Section 9 - Web Services with DOT NET Web API\CRUD Operations\CRUD Operations\bin\roslyn\csc.exe.config
+F:\Phase 3\Assisted Project\Section 9 - Web Services with DOT NET Web API\CRUD Operations\CRUD Operations\bin\roslyn\csc.rsp
+F:\Phase 3\Assisted Project\Section 9 - Web Services with DOT NET Web API\CRUD Operations\CRUD Operations\bin\roslyn\csi.exe
+F:\Phase 3\Assisted Project\Section 9 - Web Services with DOT NET Web API\CRUD Operations\CRUD Operations\bin\roslyn\csi.exe.config
+F:\Phase 3\Assisted Project\Section 9 - Web Services with DOT NET Web API\CRUD Operations\CRUD Operations\bin\roslyn\csi.rsp
+F:\Phase 3\Assisted Project\Section 9 - Web Services with DOT NET Web API\CRUD Operations\CRUD Operations\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Phase 3\Assisted Project\Section 9 - Web Services with DOT NET Web API\CRUD Operations\CRUD Operations\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Phase 3\Assisted Project\Section 9 - Web Services with DOT NET Web API\CRUD Operations\CRUD Operations\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Phase 3\Assisted Project\Section 9 - Web Services with DOT NET Web API\CRUD Operations\CRUD Operations\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Phase 3\Assisted Project\Section 9 - Web Services with DOT NET Web API\CRUD Operations\CRUD Operations\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Phase 3\Assisted Project\Section 9 - Web Services with DOT NET Web API\CRUD Operations\CRUD Operations\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Phase 3\Assisted Project\Section 9 - Web Services with DOT NET Web API\CRUD Operations\CRUD Operations\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Phase 3\Assisted Project\Section 9 - Web Services with DOT NET Web API\CRUD Operations\CRUD Operations\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Phase 3\Assisted Project\Section 9 - Web Services with DOT NET Web API\CRUD Operations\CRUD Operations\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Phase 3\Assisted Project\Section 9 - Web Services with DOT NET Web API\CRUD Operations\CRUD Operations\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Phase 3\Assisted Project\Section 9 - Web Services with DOT NET Web API\CRUD Operations\CRUD Operations\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Phase 3\Assisted Project\Section 9 - Web Services with DOT NET Web API\CRUD Operations\CRUD Operations\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\Phase 3\Assisted Project\Section 9 - Web Services with DOT NET Web API\CRUD Operations\CRUD Operations\bin\roslyn\System.AppContext.dll
+F:\Phase 3\Assisted Project\Section 9 - Web Services with DOT NET Web API\CRUD Operations\CRUD Operations\bin\roslyn\System.Collections.Immutable.dll
+F:\Phase 3\Assisted Project\Section 9 - Web Services with DOT NET Web API\CRUD Operations\CRUD Operations\bin\roslyn\System.Console.dll
+F:\Phase 3\Assisted Project\Section 9 - Web Services with DOT NET Web API\CRUD Operations\CRUD Operations\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\Phase 3\Assisted Project\Section 9 - Web Services with DOT NET Web API\CRUD Operations\CRUD Operations\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Phase 3\Assisted Project\Section 9 - Web Services with DOT NET Web API\CRUD Operations\CRUD Operations\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Phase 3\Assisted Project\Section 9 - Web Services with DOT NET Web API\CRUD Operations\CRUD Operations\bin\roslyn\System.Globalization.Calendars.dll
+F:\Phase 3\Assisted Project\Section 9 - Web Services with DOT NET Web API\CRUD Operations\CRUD Operations\bin\roslyn\System.IO.Compression.dll
+F:\Phase 3\Assisted Project\Section 9 - Web Services with DOT NET Web API\CRUD Operations\CRUD Operations\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\Phase 3\Assisted Project\Section 9 - Web Services with DOT NET Web API\CRUD Operations\CRUD Operations\bin\roslyn\System.IO.FileSystem.dll
+F:\Phase 3\Assisted Project\Section 9 - Web Services with DOT NET Web API\CRUD Operations\CRUD Operations\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Phase 3\Assisted Project\Section 9 - Web Services with DOT NET Web API\CRUD Operations\CRUD Operations\bin\roslyn\System.Net.Http.dll
+F:\Phase 3\Assisted Project\Section 9 - Web Services with DOT NET Web API\CRUD Operations\CRUD Operations\bin\roslyn\System.Net.Sockets.dll
+F:\Phase 3\Assisted Project\Section 9 - Web Services with DOT NET Web API\CRUD Operations\CRUD Operations\bin\roslyn\System.Reflection.Metadata.dll
+F:\Phase 3\Assisted Project\Section 9 - Web Services with DOT NET Web API\CRUD Operations\CRUD Operations\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Phase 3\Assisted Project\Section 9 - Web Services with DOT NET Web API\CRUD Operations\CRUD Operations\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Phase 3\Assisted Project\Section 9 - Web Services with DOT NET Web API\CRUD Operations\CRUD Operations\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Phase 3\Assisted Project\Section 9 - Web Services with DOT NET Web API\CRUD Operations\CRUD Operations\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Phase 3\Assisted Project\Section 9 - Web Services with DOT NET Web API\CRUD Operations\CRUD Operations\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Phase 3\Assisted Project\Section 9 - Web Services with DOT NET Web API\CRUD Operations\CRUD Operations\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Phase 3\Assisted Project\Section 9 - Web Services with DOT NET Web API\CRUD Operations\CRUD Operations\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\Phase 3\Assisted Project\Section 9 - Web Services with DOT NET Web API\CRUD Operations\CRUD Operations\bin\roslyn\System.ValueTuple.dll
+F:\Phase 3\Assisted Project\Section 9 - Web Services with DOT NET Web API\CRUD Operations\CRUD Operations\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Phase 3\Assisted Project\Section 9 - Web Services with DOT NET Web API\CRUD Operations\CRUD Operations\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Phase 3\Assisted Project\Section 9 - Web Services with DOT NET Web API\CRUD Operations\CRUD Operations\bin\roslyn\System.Xml.XPath.dll
+F:\Phase 3\Assisted Project\Section 9 - Web Services with DOT NET Web API\CRUD Operations\CRUD Operations\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Phase 3\Assisted Project\Section 9 - Web Services with DOT NET Web API\CRUD Operations\CRUD Operations\bin\roslyn\vbc.exe
+F:\Phase 3\Assisted Project\Section 9 - Web Services with DOT NET Web API\CRUD Operations\CRUD Operations\bin\roslyn\vbc.exe.config
+F:\Phase 3\Assisted Project\Section 9 - Web Services with DOT NET Web API\CRUD Operations\CRUD Operations\bin\roslyn\vbc.rsp
+F:\Phase 3\Assisted Project\Section 9 - Web Services with DOT NET Web API\CRUD Operations\CRUD Operations\bin\roslyn\VBCSCompiler.exe
+F:\Phase 3\Assisted Project\Section 9 - Web Services with DOT NET Web API\CRUD Operations\CRUD Operations\bin\roslyn\VBCSCompiler.exe.config
+F:\Phase 3\Assisted Project\Section 9 - Web Services with DOT NET Web API\CRUD Operations\CRUD Operations\bin\Antlr3.Runtime.dll
+F:\Phase 3\Assisted Project\Section 9 - Web Services with DOT NET Web API\CRUD Operations\CRUD Operations\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Phase 3\Assisted Project\Section 9 - Web Services with DOT NET Web API\CRUD Operations\CRUD Operations\bin\Microsoft.Web.Infrastructure.dll
+F:\Phase 3\Assisted Project\Section 9 - Web Services with DOT NET Web API\CRUD Operations\CRUD Operations\bin\Newtonsoft.Json.dll
+F:\Phase 3\Assisted Project\Section 9 - Web Services with DOT NET Web API\CRUD Operations\CRUD Operations\bin\System.Net.Http.Formatting.dll
+F:\Phase 3\Assisted Project\Section 9 - Web Services with DOT NET Web API\CRUD Operations\CRUD Operations\bin\System.Web.Helpers.dll
+F:\Phase 3\Assisted Project\Section 9 - Web Services with DOT NET Web API\CRUD Operations\CRUD Operations\bin\System.Web.Http.dll
+F:\Phase 3\Assisted Project\Section 9 - Web Services with DOT NET Web API\CRUD Operations\CRUD Operations\bin\System.Web.Http.WebHost.dll
+F:\Phase 3\Assisted Project\Section 9 - Web Services with DOT NET Web API\CRUD Operations\CRUD Operations\bin\System.Web.Mvc.dll
+F:\Phase 3\Assisted Project\Section 9 - Web Services with DOT NET Web API\CRUD Operations\CRUD Operations\bin\System.Web.Optimization.dll
+F:\Phase 3\Assisted Project\Section 9 - Web Services with DOT NET Web API\CRUD Operations\CRUD Operations\bin\System.Web.Razor.dll
+F:\Phase 3\Assisted Project\Section 9 - Web Services with DOT NET Web API\CRUD Operations\CRUD Operations\bin\System.Web.WebPages.Deployment.dll
+F:\Phase 3\Assisted Project\Section 9 - Web Services with DOT NET Web API\CRUD Operations\CRUD Operations\bin\System.Web.WebPages.dll
+F:\Phase 3\Assisted Project\Section 9 - Web Services with DOT NET Web API\CRUD Operations\CRUD Operations\bin\System.Web.WebPages.Razor.dll
+F:\Phase 3\Assisted Project\Section 9 - Web Services with DOT NET Web API\CRUD Operations\CRUD Operations\bin\WebGrease.dll
+F:\Phase 3\Assisted Project\Section 9 - Web Services with DOT NET Web API\CRUD Operations\CRUD Operations\bin\Newtonsoft.Json.xml
+F:\Phase 3\Assisted Project\Section 9 - Web Services with DOT NET Web API\CRUD Operations\CRUD Operations\bin\System.Net.Http.Formatting.xml
+F:\Phase 3\Assisted Project\Section 9 - Web Services with DOT NET Web API\CRUD Operations\CRUD Operations\bin\System.Web.Helpers.xml
+F:\Phase 3\Assisted Project\Section 9 - Web Services with DOT NET Web API\CRUD Operations\CRUD Operations\bin\System.Web.Http.xml
+F:\Phase 3\Assisted Project\Section 9 - Web Services with DOT NET Web API\CRUD Operations\CRUD Operations\bin\System.Web.Http.WebHost.xml
+F:\Phase 3\Assisted Project\Section 9 - Web Services with DOT NET Web API\CRUD Operations\CRUD Operations\bin\System.Web.Mvc.xml
+F:\Phase 3\Assisted Project\Section 9 - Web Services with DOT NET Web API\CRUD Operations\CRUD Operations\bin\System.Web.Optimization.xml
+F:\Phase 3\Assisted Project\Section 9 - Web Services with DOT NET Web API\CRUD Operations\CRUD Operations\bin\System.Web.Razor.xml
+F:\Phase 3\Assisted Project\Section 9 - Web Services with DOT NET Web API\CRUD Operations\CRUD Operations\bin\System.Web.WebPages.xml
+F:\Phase 3\Assisted Project\Section 9 - Web Services with DOT NET Web API\CRUD Operations\CRUD Operations\bin\System.Web.WebPages.Deployment.xml
+F:\Phase 3\Assisted Project\Section 9 - Web Services with DOT NET Web API\CRUD Operations\CRUD Operations\bin\System.Web.WebPages.Razor.xml
+F:\Phase 3\Assisted Project\Section 9 - Web Services with DOT NET Web API\CRUD Operations\CRUD Operations\bin\Antlr3.Runtime.pdb
+F:\Phase 3\Assisted Project\Section 9 - Web Services with DOT NET Web API\CRUD Operations\CRUD Operations\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Phase 3\Assisted Project\Section 9 - Web Services with DOT NET Web API\CRUD Operations\CRUD Operations\obj\Debug\CRUD Operations.csproj.AssemblyReference.cache
+F:\Phase 3\Assisted Project\Section 9 - Web Services with DOT NET Web API\CRUD Operations\CRUD Operations\obj\Debug\CRUD Operations.csproj.CoreCompileInputs.cache
+F:\Phase 3\Assisted Project\Section 9 - Web Services with DOT NET Web API\CRUD Operations\CRUD Operations\obj\Debug\CRUD Operations.csproj.CopyComplete
+F:\Phase 3\Assisted Project\Section 9 - Web Services with DOT NET Web API\CRUD Operations\CRUD Operations\obj\Debug\CRUD Operations.dll
+F:\Phase 3\Assisted Project\Section 9 - Web Services with DOT NET Web API\CRUD Operations\CRUD Operations\obj\Debug\CRUD Operations.pdb
+F:\Phase 3\Assisted Project\Section 9 - Web Services with DOT NET Web API\CRUD Operations\CRUD Operations\bin\EntityFramework.dll
+F:\Phase 3\Assisted Project\Section 9 - Web Services with DOT NET Web API\CRUD Operations\CRUD Operations\bin\EntityFramework.SqlServer.dll
+F:\Phase 3\Assisted Project\Section 9 - Web Services with DOT NET Web API\CRUD Operations\CRUD Operations\bin\EntityFramework.xml
+F:\Phase 3\Assisted Project\Section 9 - Web Services with DOT NET Web API\CRUD Operations\CRUD Operations\bin\EntityFramework.SqlServer.xml

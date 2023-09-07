@@ -1,0 +1,2 @@
+F:\Phase 3\Assisted Project\Section 9 - Web Services with DOT NET Web API\Consuming Web Services Using WCF\Consuming Web Services Using WCF Client\obj\Debug\Consuming Web Services Using WCF Client.csproj.AssemblyReference.cache
+F:\Phase 3\Assisted Project\Section 9 - Web Services with DOT NET Web API\Consuming Web Services Using WCF\Consuming Web Services Using WCF Client\obj\Debug\Consuming Web Services Using WCF Client.csproj.CoreCompileInputs.cache

@@ -1,0 +1,77 @@
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Security Applications\Security Applications\bin\Debug\net6.0\appsettings.Development.json
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Security Applications\Security Applications\bin\Debug\net6.0\appsettings.json
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Security Applications\Security Applications\bin\Debug\net6.0\Security Applications.staticwebassets.runtime.json
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Security Applications\Security Applications\bin\Debug\net6.0\Security Applications.exe
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Security Applications\Security Applications\bin\Debug\net6.0\Security Applications.deps.json
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Security Applications\Security Applications\bin\Debug\net6.0\Security Applications.runtimeconfig.json
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Security Applications\Security Applications\bin\Debug\net6.0\Security Applications.dll
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Security Applications\Security Applications\bin\Debug\net6.0\Security Applications.pdb
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Security Applications\Security Applications\bin\Debug\net6.0\Humanizer.dll
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Security Applications\Security Applications\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Security Applications\Security Applications\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Security Applications\Security Applications\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Security Applications\Security Applications\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Security Applications\Security Applications\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Security Applications\Security Applications\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Security Applications\Security Applications\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Security Applications\Security Applications\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Security Applications\Security Applications\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Security Applications\Security Applications\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Security Applications\Security Applications\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Security Applications\Security Applications\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Security Applications\Security Applications\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Security Applications\Security Applications\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Security Applications\Security Applications\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Security Applications\Security Applications\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Security Applications\Security Applications\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Security Applications\Security Applications\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Security Applications\Security Applications\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Security Applications\Security Applications\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Security Applications\Security Applications\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Security Applications\Security Applications\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Security Applications\Security Applications\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Security Applications\Security Applications\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Security Applications\Security Applications\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Security Applications\Security Applications\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Security Applications\Security Applications\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Security Applications\Security Applications\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Security Applications\Security Applications\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Security Applications\Security Applications\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Security Applications\Security Applications\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Security Applications\Security Applications\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Security Applications\Security Applications\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Security Applications\Security Applications\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Security Applications\Security Applications\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Security Applications\Security Applications\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Security Applications\Security Applications\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Security Applications\Security Applications\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Security Applications\Security Applications\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Security Applications\Security Applications\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Security Applications\Security Applications\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Security Applications\Security Applications\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Security Applications\Security Applications\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Security Applications\Security Applications\obj\Debug\net6.0\Security Applications.csproj.AssemblyReference.cache
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Security Applications\Security Applications\obj\Debug\net6.0\Security Applications.GeneratedMSBuildEditorConfig.editorconfig
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Security Applications\Security Applications\obj\Debug\net6.0\Security Applications.AssemblyInfoInputs.cache
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Security Applications\Security Applications\obj\Debug\net6.0\Security Applications.AssemblyInfo.cs
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Security Applications\Security Applications\obj\Debug\net6.0\Security Applications.csproj.CoreCompileInputs.cache
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Security Applications\Security Applications\obj\Debug\net6.0\Security Applications.MvcApplicationPartsAssemblyInfo.cs
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Security Applications\Security Applications\obj\Debug\net6.0\Security Applications.MvcApplicationPartsAssemblyInfo.cache
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Security Applications\Security Applications\obj\Debug\net6.0\Security Applications.RazorAssemblyInfo.cache
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Security Applications\Security Applications\obj\Debug\net6.0\Security Applications.RazorAssemblyInfo.cs
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Security Applications\Security Applications\obj\Debug\net6.0\staticwebassets\msbuild.Security Applications.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Security Applications\Security Applications\obj\Debug\net6.0\staticwebassets\msbuild.build.Security Applications.props
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Security Applications\Security Applications\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Security Applications.props
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Security Applications\Security Applications\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Security Applications.props
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Security Applications\Security Applications\obj\Debug\net6.0\staticwebassets.pack.json
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Security Applications\Security Applications\obj\Debug\net6.0\staticwebassets.build.json
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Security Applications\Security Applications\obj\Debug\net6.0\staticwebassets.development.json
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Security Applications\Security Applications\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Security Applications\Security Applications\obj\Debug\net6.0\scopedcss\bundle\Security Applications.styles.css
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Security Applications\Security Applications\obj\Debug\net6.0\scopedcss\projectbundle\Security Applications.bundle.scp.css
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Security Applications\Security Applications\obj\Debug\net6.0\Security Applications.csproj.CopyComplete
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Security Applications\Security Applications\obj\Debug\net6.0\Security Applications.dll
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Security Applications\Security Applications\obj\Debug\net6.0\refint\Security Applications.dll
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Security Applications\Security Applications\obj\Debug\net6.0\Security Applications.pdb
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Security Applications\Security Applications\obj\Debug\net6.0\Security Applications.genruntimeconfig.cache
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Security Applications\Security Applications\obj\Debug\net6.0\ref\Security Applications.dll

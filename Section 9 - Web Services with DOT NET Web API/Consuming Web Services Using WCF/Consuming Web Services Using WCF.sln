@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consuming Web Services Using WCF", "Consuming Web Services Using WCF\Consuming Web Services Using WCF.csproj", "{F94205F5-2772-4E7A-B2C2-DBD76559401E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consuming Web Services Using WCF Host", "Consuming Web Services Using WCF Host\Consuming Web Services Using WCF Host.csproj", "{2E108694-1201-45D8-A299-D09EFAFFCB33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consuming Web Services Using WCF Client", "Consuming Web Services Using WCF Client\Consuming Web Services Using WCF Client.csproj", "{222E87A4-98C8-491C-8ECB-5F5FD20D54CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F94205F5-2772-4E7A-B2C2-DBD76559401E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F94205F5-2772-4E7A-B2C2-DBD76559401E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F94205F5-2772-4E7A-B2C2-DBD76559401E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F94205F5-2772-4E7A-B2C2-DBD76559401E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E108694-1201-45D8-A299-D09EFAFFCB33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E108694-1201-45D8-A299-D09EFAFFCB33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E108694-1201-45D8-A299-D09EFAFFCB33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E108694-1201-45D8-A299-D09EFAFFCB33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{222E87A4-98C8-491C-8ECB-5F5FD20D54CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{222E87A4-98C8-491C-8ECB-5F5FD20D54CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{222E87A4-98C8-491C-8ECB-5F5FD20D54CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{222E87A4-98C8-491C-8ECB-5F5FD20D54CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {324FCD6E-A7EE-41D6-9832-8FC34334F99F}
+	EndGlobalSection
+EndGlobal

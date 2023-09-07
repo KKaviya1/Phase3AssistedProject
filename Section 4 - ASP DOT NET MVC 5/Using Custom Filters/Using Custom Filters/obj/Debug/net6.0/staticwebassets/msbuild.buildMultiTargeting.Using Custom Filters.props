@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Using Custom Filters.props" />
+</Project>

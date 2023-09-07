@@ -1,0 +1,2 @@
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Using Generic Classes To Perform CRUD Op\Using Generic Classes To Perform CRUD Op\obj\Debug\Using Generic Classes To Perform CRUD Op.csproj.AssemblyReference.cache
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Using Generic Classes To Perform CRUD Op\Using Generic Classes To Perform CRUD Op\obj\Debug\Using Generic Classes To Perform CRUD Op.csproj.CoreCompileInputs.cache

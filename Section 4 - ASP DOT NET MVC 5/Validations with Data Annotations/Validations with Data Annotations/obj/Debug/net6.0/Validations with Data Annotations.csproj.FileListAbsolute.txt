@@ -1,0 +1,30 @@
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Validations with Data Annotations\Validations with Data Annotations\obj\Debug\net6.0\Validations with Data Annotations.GeneratedMSBuildEditorConfig.editorconfig
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Validations with Data Annotations\Validations with Data Annotations\obj\Debug\net6.0\Validations with Data Annotations.AssemblyInfoInputs.cache
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Validations with Data Annotations\Validations with Data Annotations\obj\Debug\net6.0\Validations with Data Annotations.AssemblyInfo.cs
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Validations with Data Annotations\Validations with Data Annotations\obj\Debug\net6.0\Validations with Data Annotations.csproj.CoreCompileInputs.cache
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Validations with Data Annotations\Validations with Data Annotations\obj\Debug\net6.0\Validations with Data Annotations.MvcApplicationPartsAssemblyInfo.cache
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Validations with Data Annotations\Validations with Data Annotations\obj\Debug\net6.0\Validations with Data Annotations.RazorAssemblyInfo.cache
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Validations with Data Annotations\Validations with Data Annotations\obj\Debug\net6.0\Validations with Data Annotations.RazorAssemblyInfo.cs
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Validations with Data Annotations\Validations with Data Annotations\bin\Debug\net6.0\appsettings.Development.json
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Validations with Data Annotations\Validations with Data Annotations\bin\Debug\net6.0\appsettings.json
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Validations with Data Annotations\Validations with Data Annotations\bin\Debug\net6.0\Validations with Data Annotations.staticwebassets.runtime.json
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Validations with Data Annotations\Validations with Data Annotations\bin\Debug\net6.0\Validations with Data Annotations.exe
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Validations with Data Annotations\Validations with Data Annotations\bin\Debug\net6.0\Validations with Data Annotations.deps.json
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Validations with Data Annotations\Validations with Data Annotations\bin\Debug\net6.0\Validations with Data Annotations.runtimeconfig.json
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Validations with Data Annotations\Validations with Data Annotations\bin\Debug\net6.0\Validations with Data Annotations.dll
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Validations with Data Annotations\Validations with Data Annotations\bin\Debug\net6.0\Validations with Data Annotations.pdb
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Validations with Data Annotations\Validations with Data Annotations\obj\Debug\net6.0\staticwebassets\msbuild.Validations with Data Annotations.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Validations with Data Annotations\Validations with Data Annotations\obj\Debug\net6.0\staticwebassets\msbuild.build.Validations with Data Annotations.props
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Validations with Data Annotations\Validations with Data Annotations\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Validations with Data Annotations.props
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Validations with Data Annotations\Validations with Data Annotations\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Validations with Data Annotations.props
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Validations with Data Annotations\Validations with Data Annotations\obj\Debug\net6.0\staticwebassets.pack.json
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Validations with Data Annotations\Validations with Data Annotations\obj\Debug\net6.0\staticwebassets.build.json
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Validations with Data Annotations\Validations with Data Annotations\obj\Debug\net6.0\staticwebassets.development.json
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Validations with Data Annotations\Validations with Data Annotations\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Validations with Data Annotations\Validations with Data Annotations\obj\Debug\net6.0\scopedcss\bundle\Validations with Data Annotations.styles.css
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Validations with Data Annotations\Validations with Data Annotations\obj\Debug\net6.0\scopedcss\projectbundle\Validations with Data Annotations.bundle.scp.css
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Validations with Data Annotations\Validations with Data Annotations\obj\Debug\net6.0\Validations with Data Annotations.dll
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Validations with Data Annotations\Validations with Data Annotations\obj\Debug\net6.0\refint\Validations with Data Annotations.dll
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Validations with Data Annotations\Validations with Data Annotations\obj\Debug\net6.0\Validations with Data Annotations.pdb
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Validations with Data Annotations\Validations with Data Annotations\obj\Debug\net6.0\Validations with Data Annotations.genruntimeconfig.cache
+F:\Phase 3\Assisted Project\Section 4 - ASP DOT NET MVC 5\Validations with Data Annotations\Validations with Data Annotations\obj\Debug\net6.0\ref\Validations with Data Annotations.dll
